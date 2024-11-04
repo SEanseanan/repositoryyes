@@ -1,9 +1,11 @@
 body {
   font-size: 30
 }
-a:link, a:visted {
-  background color: blue;
-  font size: 30px;}
+a:link, a:visited {
+  background-colour: blue;
+  font-size: 30px;
+text-align: center; 
+}
 
 a:hover, a:active 
 {background-color: yellow;
