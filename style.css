@@ -3,17 +3,18 @@ body {
 }
 a:link, a:visited {
   background-color: white;
-  font-size: 18px;
+  font-size: 30px;
   text-align: center; 
 }
 
 a:hover, a:active 
 {background-color: yellow;
-  font-size: 18px;
+  font-size: 30px;
   text-align: center;
 }
 .button {
   color:white;
   text-align:center;
-  background-color:blue;
+  background-color:green;
+  font-size:30px;
 }
