@@ -1,13 +1,13 @@
 body {
   font-size: 30
 }
-a:link, a:visited {
+button:link, button:visited {
   background-color: white;
   font-size: 30px;
   text-align: center; 
 }
 
-a:hover, a:active 
+button:hover, button:active 
 {background-color: yellow;
   font-size: 30px;
   text-align: center;
